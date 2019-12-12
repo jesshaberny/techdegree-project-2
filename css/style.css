@@ -12,10 +12,20 @@ a {
     text-decoration: none;
 }
 
+p {
+    font-size: 1em;
+    margin-bottom: 1.8em;
+}
+
+img {
+    max-width: 100%;
+}
+
 /* ---- Navigation ---- */
 
 .name {
     margin: 0;
+    text-align: center;
 }
 
 .main-nav {
@@ -29,7 +39,19 @@ a {
     padding: 10px 15px;
 }
 
-.main-nav {
+.main-nav a {
     text-transform: uppercase;
     padding: 1em;
+}
+
+.main-nav a:hover {
+    color: ;
+
+}
+
+/* ---- Layout Containers ---- */
+
+.container {
+   width: 100%;
+   overflow: hidden; 
 }
