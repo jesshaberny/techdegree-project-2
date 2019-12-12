@@ -55,3 +55,20 @@ img {
    width: 100%;
    overflow: hidden; 
 }
+
+.banner {
+    background: lightgray;
+}
+
+/* ---- Page Elements ---- */
+
+.profile {
+    width: 260px;
+}
+
+
+
+.main-nav li {
+    display: block;
+    margin-left: 15px;
+ }
