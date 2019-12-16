@@ -2,6 +2,10 @@
   Base Element Styles
 ==================================== */
 
+header {
+    background: #f4f7f6;
+}
+
 body {
     font-family: 'Solway', serif;
     margin: auto;
@@ -10,6 +14,7 @@ body {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 p {
@@ -55,10 +60,6 @@ img {
 .container {
    width: 100%;
    overflow: hidden; 
-}
-
-.bio {
-    background: lightgray;
 }
 
 /* ---- Page Elements ---- */
