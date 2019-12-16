@@ -3,7 +3,6 @@
 ==================================== */
 
 * {
-
 box-sizing: border-box; 
 }
 
@@ -71,18 +70,17 @@ img {
 
 /* ---- Page Elements ---- */
 
-.bio {
-    text-align: center;
-}
-
-.profile {
-    width: 60%;
-    margin: auto;
-    margin-bottom: 10px;
-    display: block;
-}
-
 .main-nav li {
     display: block;
     padding: 5px;
  }
+
+ .profile {
+    width: 60%;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.bio {
+    text-align: center;
+}
