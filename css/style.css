@@ -40,6 +40,7 @@ img {
 .name a,
 .main-nav a {
     text-align: center;
+    display: inline-block;
 }
 
 .main-nav a {
