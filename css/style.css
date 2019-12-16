@@ -40,6 +40,7 @@ img {
 }
 
 .main-nav {
+    margin: auto;
     margin-top: 5px;
 }
 
@@ -83,4 +84,5 @@ img {
 
 .main-nav li {
     display: block;
+    padding: 5px;
  }
