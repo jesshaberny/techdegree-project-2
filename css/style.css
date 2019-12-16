@@ -79,6 +79,7 @@ img {
     width: 60%;
     margin: auto;
     margin-bottom: 10px;
+    display: block;
 }
 
 .main-nav li {
