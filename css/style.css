@@ -35,9 +35,7 @@ img {
 .name a,
 .main-nav a {
     text-align: center;
-    display: block;
     padding: 10px 15px;
-    margin: auto;
 }
 
 .main-nav a {
