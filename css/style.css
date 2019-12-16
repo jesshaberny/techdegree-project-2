@@ -69,6 +69,10 @@ img {
 
 /* ---- Page Elements ---- */
 
+.bio {
+    text-align: center;
+}
+
 .profile {
     width: 260px;
     margin-bottom: 10px;
