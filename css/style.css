@@ -71,7 +71,6 @@ img {
 
 .bio {
     text-align: center;
-    width: 80%;
     margin-bottom: 15px;
 }
 
@@ -85,5 +84,4 @@ img {
 .main-nav li {
     display: block;
     padding: 5px;
-    margin: auto;
  }
