@@ -65,6 +65,7 @@ img {
 .main-header {
     padding-top: 1em;
     padding-bottom: 1em;
+    margin: auto;
     background: #f4f7f6;
     text-align: center;
 }
