@@ -63,9 +63,9 @@ img {
 }
 
 .main-header {
+    margin: 0 auto;
     padding-top: 1em;
     padding-bottom: 1em;
-    margin: 0 auto;
     background: #f4f7f6;
     text-align: center;
 }
