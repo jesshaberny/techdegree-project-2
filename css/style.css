@@ -42,7 +42,7 @@ img {
 .name a,
 .main-nav a {
     text-align: center;
-    display: inline-block;
+    display: block;
 }
 
 .main-nav a {
