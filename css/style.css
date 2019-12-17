@@ -23,6 +23,10 @@ img {
     margin-right: 5px;
 }
 
+h2 {
+    text-align: center;
+}
+
 /* ---- Navigation ---- */
 
 .name {
@@ -72,7 +76,7 @@ img {
     padding: 5px;
  }
 
- .profile {
+.profile {
     width: 60%;
     margin-bottom: 10px;
     display: block;
@@ -96,3 +100,4 @@ img {
 .p {
     text-align: center;
 }
+
