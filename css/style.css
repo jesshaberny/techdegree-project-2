@@ -81,6 +81,13 @@ img {
     display: block;
 }
 
+.portfolio {
+    width: 100%;
+    margin-right: 15px;
+    margin-left: 15px;
+    display: block;
+}
+
 .bio {
     text-align: center;
 }
