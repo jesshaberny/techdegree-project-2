@@ -24,8 +24,6 @@ p {
 
 img {
     max-width: 100%;
-    margin-left: 5px;
-    margin-right: 5px;
 }
 
 h1 {
@@ -85,15 +83,13 @@ h2 {
  }
 
 .profile {
-    width: 70%;
+    width: 75%;
     margin-bottom: 10px;
     display: block;
 }
 
 .portfolio {
     width: 90%;
-    margin-right: 15px;
-    margin-left: 15px;
     display: block;
 }
 
