@@ -98,15 +98,16 @@ header {
     width: 70%;
 }
 
+.bio {
+    display: block;
+    text-align: center;
+}
+
 .portfolio {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-}
-
-.bio {
-    text-align: center;
 }
 
 .headline {
