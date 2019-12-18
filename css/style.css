@@ -48,7 +48,7 @@ h2 {
 
 .name a,
 .main-nav a {
-    display: inline-block;
+    display: block;
     text-align: center;
 }
 
@@ -81,7 +81,6 @@ h2 {
 /* ---- Page Elements ---- */
 
 .main-nav li {
-    display: block;
     padding: 5px;
  }
 
