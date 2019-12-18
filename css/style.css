@@ -82,14 +82,16 @@ h2 {
  }
 
 .profile {
-    width: 75%;
-    margin-bottom: 10px;
     display: block;
+    margin-bottom: 10px;
+    width: 70%;
 }
 
 .portfolio {
-    width: 90%;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
 
 .bio {
