@@ -34,6 +34,10 @@ h2 {
     text-align: center;
 }
 
+header {
+    margin: auto;
+}
+
 /* ---- Navigation ---- */
 
 .name {
@@ -79,11 +83,6 @@ h2 {
 }
 
 /* ---- Page Elements ---- */
-
-.main-nav ul {
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .main-nav li {
     display: block;
