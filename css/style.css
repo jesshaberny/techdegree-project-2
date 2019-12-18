@@ -48,7 +48,8 @@ h2 {
 
 .name a,
 .main-nav a {
-    display: block;
+    display: inline-block;
+    text-align: center;
 }
 
 .main-nav a {
