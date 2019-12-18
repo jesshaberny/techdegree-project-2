@@ -80,7 +80,13 @@ h2 {
 
 /* ---- Page Elements ---- */
 
+.main-nav ul {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .main-nav li {
+    display: block;
     padding: 5px;
  }
 
