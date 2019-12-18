@@ -70,7 +70,7 @@ header {
 /* ---- Layout Containers ---- */
 
 .container {
-   width: 90%;
+   width: 100%;
    overflow: hidden; 
 }
 
