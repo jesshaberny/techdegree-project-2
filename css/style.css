@@ -53,6 +53,8 @@ h2 {
 }
 
 .main-nav a {
+    margin-left: auto;
+    margin-right: auto;
     text-transform: uppercase;
     padding: 1em;
     background-color: white;
