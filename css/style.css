@@ -41,6 +41,8 @@ h2 {
 }
 
 .main-nav {
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 5px;
 }
 
