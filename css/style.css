@@ -53,8 +53,6 @@ h2 {
 }
 
 .main-nav a {
-    margin-left: auto;
-    margin-right: auto;
     text-transform: uppercase;
     padding: 1em;
     background-color: white;
@@ -73,6 +71,8 @@ h2 {
 }
 
 .main-header {
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 1em;
     padding-bottom: 1em;
     background: #f4f7f6;
